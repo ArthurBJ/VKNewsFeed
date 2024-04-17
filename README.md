@@ -8,6 +8,6 @@ VK news feed app using VK SDK
 
 ### Auth Screen
 ![alt text](https://github.com/ArthurBJ/VKNewsFeed/blob/main/assets/login.png)
-### Feed Screen
-![alt text](https://github.com/ArthurBJ/VKNewsFeed/blob/main/assets/news%20feed.png)
-![alt text](https://github.com/ArthurBJ/VKNewsFeed/blob/main/assets/news%20feed%202.png)
+Feed Screen             |  Feed Screen
+:-------------------------:|:-------------------------:
+![](https://github.com/ArthurBJ/VKNewsFeed/blob/main/assets/news%20feed.png)  |  ![](https://github.com/ArthurBJ/VKNewsFeed/blob/main/assets/news%20feed%202.png)
